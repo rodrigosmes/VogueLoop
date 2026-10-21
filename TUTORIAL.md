@@ -86,7 +86,10 @@ npx vercel --prod   # publica a versão final
 | − / + | Velocidade das animações (0,5× até 4×) |
 | A | Slides: liga/desliga o automático |
 | N | Slides: mostra as notas de fala |
+| E | Troca o estilo visual: **Editorial** (o nosso) ou **Marca** (logo e cores oficiais da VogueLoop) |
 | F | Slides: tela cheia |
 | Esc | Fecha os slides |
+
+O estilo escolhido fica salvo no navegador e vale para a página e para os slides. Também dá para trocar pelos botões **Editorial / Marca** no menu lateral, pelo botão **Estilo** no celular ou pelo ícone de paleta nos controles dos slides.
 
 Dica: no projetor, abra o site em tela cheia do navegador (**F11**) e teste a velocidade antes de começar.
