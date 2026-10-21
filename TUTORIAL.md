@@ -87,9 +87,13 @@ npx vercel --prod   # publica a versão final
 | A | Slides: liga/desliga o automático |
 | N | Slides: mostra as notas de fala |
 | E | Troca o estilo visual: **Editorial** (o nosso) ou **Marca** (logo e cores oficiais da VogueLoop) |
+| Shift+Enter | Página: executa a célula selecionada e passa para a próxima (como no Colab) |
+| Ctrl+F9 | Página: executa todas as células |
 | F | Slides: tela cheia |
 | Esc | Fecha os slides |
 
 O estilo escolhido fica salvo no navegador e vale para a página e para os slides. Também dá para trocar pelos botões **Editorial / Marca** no menu lateral, pelo botão **Estilo** no celular ou pelo ícone de paleta nos controles dos slides.
+
+Cada célula de código tem o botão **▶** do Colab: ao clicar, ela "executa" e mostra, aos poucos, as saídas reais da execução oficial (logs de treino época a época, tabelas e gráficos). No menu lateral, **▶ Executar tudo** roda o notebook inteiro em sequência e **Limpar saídas** apaga tudo para começar do zero. O código não roda de verdade no navegador (TensorFlow não funciona lá); para rodar de verdade, use o botão **Abrir no Colab ↗** de cada célula.
 
 Dica: no projetor, abra o site em tela cheia do navegador (**F11**) e teste a velocidade antes de começar.
